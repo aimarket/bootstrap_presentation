@@ -1,4 +1,4 @@
-# bootstrasp_presentation
+# bootstrap_presentation
 This is an example website done for the coding club at CGCC
 
 My presenetation slides can be found at:
