@@ -1,6 +1,8 @@
 # bootstrap_presentation
 This is an example website done for the coding club at CGCC
 
+[Live Demo](https://aimarket.github.io/bootstrap_presentation/index.html)
+
 
 <img src="https://github.com/aimarket/bootstrap_presentation/blob/main/slides/slide000.png?raw=true" alt="slide0" title="Slide0" height="350"/>
 <img src="https://github.com/aimarket/bootstrap_presentation/blob/main/slides/slide001.png?raw=true" alt="slide0" title="Slide0" height="350"/>
